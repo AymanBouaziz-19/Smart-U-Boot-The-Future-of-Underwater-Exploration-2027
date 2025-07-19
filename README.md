@@ -1,6 +1,6 @@
 # Smart-U-Boot – The Future of Underwater Exploration 🌊🤖
 
-> *“Engineering meets the deep sea — where renewable energy, AI, and marine robotics converge.”*
+> *“Engineering meets the deep sea where renewable energy, AI, and marine robotics converge.”*
 
 Created by **Ayman Bouaziz**  
 Student in Artificial Intelligence & Software Engineering – FST Al Hoceima, Morocco 🇲🇦  
