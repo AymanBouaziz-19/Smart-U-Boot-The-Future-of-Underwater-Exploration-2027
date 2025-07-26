@@ -164,3 +164,7 @@ MIT License – Open for contribution, but proprietary hardware details upon req
 
 - **Layout:**
 
+![1000011182](https://github.com/user-attachments/assets/daedbf1f-a699-4d8d-90c6-2b9c582562cb)
+![1000011181](https://github.com/user-attachments/assets/d8ff9426-7091-49a5-90cd-bd2040692cdb)
+<img width="1024" height="1536" alt="1000011228" src="https://github.com/user-attachments/assets/371a7fa6-c02d-4b77-ba23-122795a9b5bb" />
+![1000011183](https://github.com/user-attachments/assets/78b24b5b-45fc-40f5-bc0c-a6117ddaf872)
